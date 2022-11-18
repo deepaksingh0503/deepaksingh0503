@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHeCWmmDW1yeA/profile-displaybackgroundimage-shrink_350_1400/0/1635529102366?e=1668643200&v=beta&t=jtNhmyhVezDEb9fOyLVJayourXh3PIiR6lNew-2OYqc)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHeCWmmDW1yeA/profile-displaybackgroundimage-shrink_350_1400/0/1635529102366?e=1674086400&v=beta&t=94JNz17RKj9_Wn3Z_vmrZj-GKsZOcWdmg-13cdXsd_0)
 
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate frontend Web and android developer from India</h3>
